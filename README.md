@@ -112,18 +112,6 @@ python main.py
 
 ---
 
-## Open Source
-
-The project is fully open-source.
-
-You can:
-
-* inspect the code
-* modify the application
-* build your own binaries
-* contribute improvements
-
----
 
 ## Building Executable
 

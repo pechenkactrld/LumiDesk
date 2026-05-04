@@ -119,34 +119,9 @@ python main.py
 
 ```bash
 pip install pyinstaller
-pyinstaller --onedir --windowed main.py
-```
-
-Recommended for fewer antivirus false positives:
-
-```bash
-pyinstaller --onedir
-```
-
-Instead of:
-
-```bash
-pyinstaller --onefile
+pyinstaller --onefile --windowed main.py
 ```
 
 ---
 
-## Folder Structure
-
-```text
-app/
-├── ui/
-├── core/
-├── workers/
-├── storage/
-├── plugins/
-└── main.py
-```
-
----
 

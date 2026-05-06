@@ -89,15 +89,6 @@ chmod +x LumiDesk.bin
 ---
 
 
-## Building Executable
-
-### PyInstaller
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed main.py
-```
-
 ---
 
 

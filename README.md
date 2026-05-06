@@ -14,22 +14,6 @@
 ![Logo](screenshots/logo.png)
 ```
 
-
----
-
-## Features
-
-* Modern PyQt6 desktop UI
-* Local Ollama integration
-* Automatic hardware analysis
-* Smart model recommendation system
-* Drag & drop file upload
-* Chat history saving/loading
-* Fullscreen chat mode
-* Model download manager (`ollama pull`)
-* Linux-first development
-* Planned plugin system
-
 ---
 
 ## Screenshots
@@ -37,10 +21,6 @@
 ### Main window
 
 ![Main window](screenshots/main.png)
-
-### Model Download Progress
-
-![Model Download](screenshots/download.png)
 
 ### Chat Interface
 
@@ -50,19 +30,22 @@
 
 ## Installation
 
-### Linux
-
-```bash
-sudo apt install python3 python3-pip
-pip install -r requirements.txt
-python main.py
-```
-
 ### Windows
 
+Download Ollama from their official web site and install it
+Download LumiDesk.exe from GitHub releases
+
+### Linux
+
+Download Ollama from their official web site and install it
+Download LumiDesk.bin from GitHub releases or using git clone
+
+then
+
 ```bash
-pip install -r requirements.txt
-python main.py
+cd ~/Folder-with-LumiDesk
+chmod +x LumiDesk.bin
+./LumiDesk.bin
 ```
 
 ---

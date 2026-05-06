@@ -78,8 +78,6 @@ chmod +x LumiDesk.bin
 ## Windows Defender Warning
 
 > [!WARNING]
-> LumiDesk is currently an unsigned open-source application.
->
 > Windows Defender or SmartScreen may warn about the executable because it has no digital signature and low reputation.
 >
 > If you prefer:

@@ -54,6 +54,7 @@ chmod +x LumiDesk.bin
 
 * Python 3.11+
 * Ollama installed
+* Tesseract in PATH for images
 * Recommended: NVIDIA GPU for larger models
 
 ---
